@@ -8,3 +8,5 @@ Sistem chatbot dikembangkan dengan konsep client-server, di mana aplikasi meneri
 Untuk proses deployment dan pengujian aplikasi secara online, sistem menggunakan Ngrok sebagai tunneling service yang memungkinkan server lokal dapat diakses melalui internet. Dengan penggunaan Ngrok, proses testing dan demonstrasi aplikasi dapat dilakukan tanpa harus menggunakan hosting atau VPS secara langsung.
 
 Melalui Final Project ini diharapkan aplikasi chatbot dapat menjadi implementasi sederhana pemanfaatan AI pada layanan informasi Program JKN dengan fokus pada integrasi AI, pemrosesan pertanyaan pengguna, dan deployment aplikasi berbasis web.
+
+<img width="1919" height="818" alt="image" src="https://github.com/user-attachments/assets/d937090b-c83f-4841-8a40-1e2f3ff501f6" />
